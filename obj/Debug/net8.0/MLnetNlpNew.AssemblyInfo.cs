@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MLnetNlpNew")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+540e69a11f202c4f1d0c226ab202da98aaa8c7d8")]
 [assembly: System.Reflection.AssemblyProductAttribute("MLnetNlpNew")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MLnetNlpNew")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
