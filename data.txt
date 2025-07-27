@@ -1,0 +1,34 @@
+﻿"I love programming",1
+"I hate bugs",0
+"I enjoy learning new things",1
+"I dislike errors",0
+"I am passionate about coding",1
+"I find debugging frustrating",0
+"Programming is fun",1
+"Software development is challenging",0
+"I am learning C#",1
+"Fixing bugs is satisfying",1
+"I don't like dealing with errors",0
+"I love solving problems",1
+"Writing code is rewarding",1
+"Code reviews can be tough",0
+"I enjoy building projects",1
+"Debugging is part of the process",1
+"I hate when the code doesn't work",0
+"I love the logic behind programming",1
+"I dislike when my code breaks",0
+"Developing software is exciting",1
+"Life without programming would be boring",1
+"Software development feels like a constant battle",0
+"I am enjoying learning new frameworks",1
+"I hate dealing with legacy code",0
+"Coding is my favorite hobby",1
+"Software projects always have unexpected challenges",0
+"Building cool apps is satisfying",1
+"I hate it when my code doesn't compile",0
+"Solving coding problems is fun",1
+"Debugging can be exhausting",0
+"Learning new languages is exciting",1
+"Working on software projects is stressful",0
+"I find algorithms fascinating",1
+"Debugging is a pain",0
